@@ -239,13 +239,13 @@ Modern, responsive landing page built to showcase brand identity and product off
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwanahmed786508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed786508&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=rizwanahmed786508&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanahmed786508&theme=tokyo-night&hide_border=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rizwanahmed786508&theme=discord&no-frame=true&row=1&column=7" />
+
 
 <br/>
 
