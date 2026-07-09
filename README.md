@@ -253,7 +253,6 @@ Modern, responsive landing page built to showcase brand identity and product off
 
 </div>
 
-> 💡 The **contribution snake animation** requires a one-time GitHub Actions workflow in your profile repository (`rizwanahmed786508/rizwanahmed786508`) — ask me and I'll generate it. All other stats/streak/trophy widgets render automatically once this README lives in that repo.
 
 ---
 
