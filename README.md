@@ -25,15 +25,17 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260">
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am **Rizwan Ahmed**, a Machine Learning Engineer in training and a Software Engineering student at **IBA Sukkur**, passionate about transforming data into intelligent, real-world solutions.
+I am **Rizwan Ahmed**, an aspiring Machine Learning Engineer with a strong passion for designing intelligent systems that solve complex real-world problems.
 
-Currently, I am working as a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**, where I develop predictive models and data-driven solutions for real organizational challenges. My work extends beyond building models—I focus on the complete machine learning lifecycle, from data collection and preprocessing to model development, evaluation, and deployment.
+Currently serving as a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**, I work on practical machine learning solutions involving data preprocessing, predictive modeling, model evaluation, and business-focused analytics.
 
-My interests lie in **Machine Learning, Artificial Intelligence, Predictive Analytics, Computer Vision, Natural Language Processing (NLP), and MLOps**. I enjoy building scalable AI systems that bridge research with practical industry applications.
+My technical interests span **Machine Learning, Artificial Intelligence, Computer Vision, Natural Language Processing, MLOps, and Predictive Analytics**, where I continuously explore modern tools and technologies through hands-on development and research.
 
-I am continuously expanding my knowledge through hands-on projects, internships, research, and open-source contributions, with the long-term goal of becoming a world-class **Machine Learning Engineer** and pursuing a **fully funded international Master's degree in Artificial Intelligence / Machine Learning**.
+I believe that successful Machine Learning is not just about building accurate models—it's about understanding data, engineering reliable solutions, and delivering measurable value.
+
+I aspire to pursue a fully funded international Master's degree in Artificial Intelligence while contributing to impactful research and industry-scale AI systems.
 
 <br clear="right"/>
 
