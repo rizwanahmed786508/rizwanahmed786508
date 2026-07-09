@@ -25,14 +25,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260">
 
-I'm **Rizwan Ahmed**, a Software Engineering student at **IBA Sukkur**, pursuing a **BS in Software Engineering** (Expected Graduation: **May 2027**, CGPA: **3.76 / 4.00**). I'm currently working as a **Machine Learning Intern** at **National Grid Company Pakistan Limited (NGC)**, where I apply data-driven methods to real operational challenges.
+## 👨‍💻 About Me
 
-- 🎯 **Career Goal:** Become a Machine Learning Engineer and pursue a fully-funded international **Master's degree** in AI / Machine Learning
-- 🔭 I build systems at the intersection of **Machine Learning, Data Science, and Software Engineering**
-- 🧪 My work spans **Predictive Analytics, Computer Vision, NLP, and MLOps**
-- 📚 I treat ML as an engineering discipline — from data pipelines to deployment, not just notebooks
-- 🌍 Based in **Pakistan**, building toward a global research and engineering career
-- 💡 Driven by a genuine passion for solving real-world problems using **Artificial Intelligence**
+I am **Rizwan Ahmed**, a Machine Learning Engineer in training and a Software Engineering student at **IBA Sukkur**, passionate about transforming data into intelligent, real-world solutions.
+
+Currently, I am working as a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**, where I develop predictive models and data-driven solutions for real organizational challenges. My work extends beyond building models—I focus on the complete machine learning lifecycle, from data collection and preprocessing to model development, evaluation, and deployment.
+
+My interests lie in **Machine Learning, Artificial Intelligence, Predictive Analytics, Computer Vision, Natural Language Processing (NLP), and MLOps**. I enjoy building scalable AI systems that bridge research with practical industry applications.
+
+I am continuously expanding my knowledge through hands-on projects, internships, research, and open-source contributions, with the long-term goal of becoming a world-class **Machine Learning Engineer** and pursuing a **fully funded international Master's degree in Artificial Intelligence / Machine Learning**.
 
 <br clear="right"/>
 
