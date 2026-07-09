@@ -249,7 +249,7 @@ Modern, responsive landing page built to showcase brand identity and product off
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/rizwanahmed786508/rizwanahmed786508/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
