@@ -258,7 +258,7 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 ### 💬 Turning data into intelligent decisions through Machine Learning and Artificial Intelligence.
 
-Open to Machine Learning internships, research collaborations, and AI engineering opportunities worldwide.
+Building intelligent systems that transform data into meaningful real-world impact.
 
 **Made with ❤️ by Rizwan Ahmed**
 
