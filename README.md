@@ -19,14 +19,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220">
 
-I build machine learning systems the way an engineer builds infrastructure — with an emphasis on correctness, reproducibility, and what happens *after* the model works. As a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**, I apply predictive modeling to real operational data, where "the model is accurate" is the start of the job, not the end of it.
+I'm **Rizwan Ahmed**, a Software Engineering student at **IBA Sukkur** (CGPA: **3.76/4.00**) and a **Machine Learning Intern** at **National Grid Company Pakistan Limited (NGC)**.
 
-My working philosophy is **end-to-end**: problem framing → data validation → model iteration → evaluation → deployment thinking. I gravitate toward **predictive analytics, computer vision, and NLP** because they resolve into decisions someone actually has to make.
+I specialize in designing and developing **end-to-end Machine Learning solutions**, transforming real-world data into actionable insights through data preprocessing, exploratory data analysis, predictive modeling, and interactive web applications.
 
-Longer term, I'm oriented toward research: I'm working toward a fully-funded **international Master's in AI/ML**, with a specific interest in **Explainable and Responsible AI** — systems that are trustworthy and interpretable, not just accurate in a notebook.
+My work spans **Predictive Analytics, Natural Language Processing (NLP), Healthcare AI, Financial Risk Analysis, and HR Analytics**, with a strong emphasis on building practical, deployment-ready ML systems rather than just research notebooks.
 
-`Currently:` building deployable ML pipelines · studying deep learning architectures & MLOps · open to collaborating on research-driven ML projects.
-
+I am passionate about applying Artificial Intelligence to solve real-world problems and continuously expanding my expertise in **Machine Learning, MLOps, Deep Learning, and AI Research**. My long-term goal is to become a **Machine Learning Engineer** and pursue a **fully funded international Master's degree** in Artificial Intelligence or Machine Learning while contributing to impactful AI solutions on a global scale.
 <br clear="right"/>
 
 ---
