@@ -1,101 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Rizwan%20Ahmed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Software%20Engineer%20%7C%20AI%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29,302b63,24243e&height=240&section=header&text=RIZWAN%20AHMED&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Machine%20Learning%20Engineer%20•%20Software%20Engineer%20•%20AI%20Researcher&descAlignY=54&descSize=17" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Machine+Learning+Engineer;Data+Scientist;Software+Engineer;AI+%26+Computer+Vision+Enthusiast;NLP+%26+Research+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
-<a href="https://github.com/rizwanahmed786508">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Scientist;Software+Engineer;Artificial+Intelligence+Enthusiast;Computer+Vision+Learner;NLP+Enthusiast;Research+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
-</a>
+<sub>🧠 Turning data into decisions — one model at a time</sub>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizwan%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanahmed78)
 [![GitHub](https://img.shields.io/badge/GitHub-rizwanahmed786508-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
 <img src="https://komarev.com/ghpvc/?username=rizwanahmed786508&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/rizwanahmed786508?label=Followers&style=for-the-badge&color=8B5CF6" alt="Followers"/>
 
 </div>
 
-<br/>
-
 ## 🧠 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220">
 
+I build machine learning systems the way an engineer builds infrastructure — with an emphasis on correctness, reproducibility, and what happens *after* the model works. As a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**, I apply predictive modeling to real operational data, where "the model is accurate" is the start of the job, not the end of it.
 
-I am **Rizwan Ahmed**, an aspiring Machine Learning Engineer with a strong passion for designing intelligent systems that solve complex real-world problems.
+My working philosophy is **end-to-end**: problem framing → data validation → model iteration → evaluation → deployment thinking. I gravitate toward **predictive analytics, computer vision, and NLP** because they resolve into decisions someone actually has to make.
 
-Currently serving as a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**, I work on practical machine learning solutions involving data preprocessing, predictive modeling, model evaluation, and business-focused analytics.
+Longer term, I'm oriented toward research: I'm working toward a fully-funded **international Master's in AI/ML**, with a specific interest in **Explainable and Responsible AI** — systems that are trustworthy and interpretable, not just accurate in a notebook.
 
-My technical interests span **Machine Learning, Artificial Intelligence, Computer Vision, Natural Language Processing, MLOps, and Predictive Analytics**, where I continuously explore modern tools and technologies through hands-on development and research.
-
-I believe that successful Machine Learning is not just about building accurate models—it's about understanding data, engineering reliable solutions, and delivering measurable value.
-
-I aspire to pursue a fully funded international Master's degree in Artificial Intelligence while contributing to impactful research and industry-scale AI systems.
+`Currently:` building deployable ML pipelines · studying deep learning architectures & MLOps · open to collaborating on research-driven ML projects.
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Current Status
-
-```yaml
-Currently Working On:   End-to-end ML pipelines with real deployment workflows
-Currently Learning:     Deep Learning Architectures, MLOps, Advanced NLP
-Looking To Collaborate: Open-source ML/AI projects, research-driven case studies
-Ask Me About:           Machine Learning, Data Science, Predictive Modeling, Python
-Fun Fact:               I enjoy turning messy, real-world data into clean, actionable insight 📊
-```
-
----
-
-## 🎓 Education
+## 🎓 Education &nbsp;·&nbsp; 💼 Internship
 
 <div align="center">
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-**🏛️ IBA Sukkur** — Sukkur, Pakistan
-**BS Software Engineering** &nbsp;|&nbsp; CGPA: **3.76 / 4.00** &nbsp;|&nbsp; Expected Graduation: **May 2027**
+**🏛️ IBA Sukkur**
+BS Software Engineering
+CGPA **3.76/4.00** &nbsp;|&nbsp; Grad **May 2027**
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ National Grid Company Pakistan Limited**
+Machine Learning Intern
+Applying ML to real operational & predictive use cases
 
 </td>
 </tr>
 </table>
 
-</div>
-
-## 💼 Internship
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%">
-
-**⚡ National Grid Company Pakistan Limited (NGC)**
-**Machine Learning Intern**
-Applying machine learning and data analysis techniques to support real-world operational and predictive use cases.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔬 Research Interests
-
-<div align="center">
-
-| 🤖 Machine Learning | 🧠 Deep Learning | 🗣️ NLP | 👁️ Computer Vision |
-|:---:|:---:|:---:|:---:|
-| **⚙️ MLOps** | **🔍 Explainable AI** | **📊 Data Science** | **🧬 AI Research** |
+**Research Interests:** `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `MLOps` `Explainable AI` `Predictive Analytics`
 
 </div>
 
@@ -110,9 +69,10 @@ Applying machine learning and data analysis techniques to support real-world ope
 <td width="50%">
 
 ### 📊 Employee Job Satisfaction Prediction
-Predictive model analyzing workplace data to estimate employee satisfaction levels, supporting HR decision-making with data-driven insight.
+Predicts employee satisfaction levels from workplace data to support HR decision-making.
 
-**Tech:** `Python` `Scikit-Learn` `Pandas` `Data Visualization`
+`Python` `Scikit-Learn` `Pandas`
+**Dataset:** HR employee survey data &nbsp;|&nbsp; **Best Accuracy:** _add score_
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
 
@@ -120,9 +80,10 @@ Predictive model analyzing workplace data to estimate employee satisfaction leve
 <td width="50%">
 
 ### 💳 Credit Scoring System
-Machine learning system that assesses creditworthiness using historical financial data to support risk-based lending decisions.
+Assesses creditworthiness from historical financial data to support risk-based lending decisions.
 
-**Tech:** `Python` `Scikit-Learn` `NumPy` `Classification Models`
+`Python` `Scikit-Learn` `NumPy`
+**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Best Accuracy:** _add score_
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
 
@@ -131,10 +92,11 @@ Machine learning system that assesses creditworthiness using historical financia
 <tr>
 <td width="50%">
 
-### 🗣️ Customer Review Analytics
-NLP-driven analytics pipeline that extracts sentiment and key themes from customer reviews to surface actionable business insight.
+### 🗣️ Customer Review Analytics Dashboard
+NLP pipeline extracting sentiment and key themes from customer reviews into an interactive dashboard.
 
-**Tech:** `Python` `NLP` `Pandas` `Text Analytics`
+`Python` `NLP` `Pandas` `Streamlit`
+**Dataset:** Customer review text data &nbsp;|&nbsp; **Best Accuracy:** _add score_
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
 
@@ -142,9 +104,10 @@ NLP-driven analytics pipeline that extracts sentiment and key themes from custom
 <td width="50%">
 
 ### 🩺 Diabetes Prediction System
-Classification model that predicts diabetes risk from patient health metrics, built for early-detection use cases.
+Classification model predicting diabetes risk from patient health metrics for early-detection use cases.
 
-**Tech:** `Python` `Scikit-Learn` `Pandas` `Machine Learning`
+`Python` `Scikit-Learn` `Pandas`
+**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Best Accuracy:** _add score_
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
 
@@ -154,9 +117,9 @@ Classification model that predicts diabetes risk from patient health metrics, bu
 <td width="50%">
 
 ### 🌐 MorpheLabs Landing Page
-Modern, responsive landing page built to showcase brand identity and product offering with clean UI/UX principles.
+Responsive landing page built to showcase brand identity with clean UI/UX principles.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
 
@@ -235,39 +198,36 @@ Modern, responsive landing page built to showcase brand identity and product off
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwanahmed786508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed786508&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=rizwanahmed786508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed786508&layout=compact&theme=tokyonight&hide_border=true" /></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" src="https://streak-stats.demolab.com?user=rizwanahmed786508&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanahmed786508&theme=tokyo-night&hide_border=true" /></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=rizwanahmed786508&theme=discord&no-frame=true&row=1&column=7" /></td>
+</tr>
+</table>
 
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanahmed786508&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<br/><br/>
-
-
-
-<br/>
-
-
+![Snake animation](https://raw.githubusercontent.com/rizwanahmed786508/rizwanahmed786508/output/github-contribution-grid-snake.svg)
 
 </div>
 
+> 💡 The **contribution snake animation** needs a one-time GitHub Actions workflow in your profile repo (`rizwanahmed786508/rizwanahmed786508`) — ask and I'll generate it. Stats/streak/trophy widgets render automatically once this README lives there.
 
 ---
 
-## 📜 Certifications
-
-- 🎖️ **Introduction to Data Science** — Cisco
-- 🎖️ **Intermediate Machine Learning** — Kaggle
-
----
-
-## 🏆 Achievements
+## 🏆 Achievements &nbsp;·&nbsp; 📜 Certifications
 
 - 🎓 Maintaining a **CGPA of 3.76 / 4.00** in BS Software Engineering at IBA Sukkur
 - 💼 Currently working as a **Machine Learning Intern** at National Grid Company Pakistan Limited (NGC)
 - 🛠️ Delivered **5+ end-to-end ML and software projects**, including predictive systems and NLP analytics
-- 📜 Completed certifications in **Data Science** (Cisco) and **Machine Learning** (Kaggle)
+- 🎖️ Certified in **Introduction to Data Science** (Cisco) and **Intermediate Machine Learning** (Kaggle)
 - 🌱 Actively building a **GitHub portfolio** aimed at research and industry opportunities
 - 📖 Pursuing long-term **research goals** in Explainable and Responsible AI
 
@@ -275,33 +235,12 @@ Modern, responsive landing page built to showcase brand identity and product off
 
 ## 🗺️ Learning Roadmap
 
-```
-Software Engineering
-        │
-        ▼
-      Python
-        │
-        ▼
-   Data Science
-        │
-        ▼
- Machine Learning
-        │
-        ▼
-Artificial Intelligence
-        │
-        ▼
-   Deep Learning
-        │
-        ▼
-     Research
-        │
-        ▼
-      MLOps
-        │
-        ▼
-International Master's
-```
+<div align="center">
+
+`Software Engineering` → `Python` → `Data Science` → `Machine Learning`
+`Artificial Intelligence` → `Deep Learning` → `Research` → `MLOps` → **`International Master's`** 🎓
+
+</div>
 
 ---
 
@@ -338,11 +277,12 @@ International Master's
 
 <div align="center">
 
-⭐ **Thank you for visiting my GitHub profile!**
-Let's build intelligent systems together.
+### 💬 Let's build intelligent systems that solve real-world problems — together.
+
+⭐ Thanks for stopping by — explore my repositories or reach out using the links above.
 
 **Made with ❤️ by Rizwan Ahmed**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29&height=90&section=footer" width="100%"/>
 
 </div>
