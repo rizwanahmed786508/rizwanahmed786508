@@ -214,11 +214,10 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 </tr>
 </table>
 
-![Snake animation](https://raw.githubusercontent.com/rizwanahmed786508/rizwanahmed786508/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
-> 💡 The **contribution snake animation** needs a one-time GitHub Actions workflow in your profile repo (`rizwanahmed786508/rizwanahmed786508`) — ask and I'll generate it. Stats/streak/trophy widgets render automatically once this README lives there.
 
 ---
 
