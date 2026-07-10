@@ -128,7 +128,7 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 `HTML` `CSS` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://ADD_LIVE_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://morphelabs-nextgen-landing-jiflot8u5.vercel.app/)
 
 </td>
 <td width="50%">
