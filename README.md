@@ -75,7 +75,7 @@ Applying ML to real operational & predictive use cases
 Predicts employee satisfaction levels from workplace data to support HR decision-making.
 
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `87.31`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/employee-job-satisfaction-prediction)
 
@@ -86,7 +86,7 @@ Predicts employee satisfaction levels from workplace data to support HR decision
 Assesses creditworthiness from historical financial data to support risk-based lending decisions.
 
 `Python` `Scikit-Learn` `NumPy`
-**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `93.3`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/credit-scoring-system)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
@@ -101,7 +101,7 @@ Assesses creditworthiness from historical financial data to support risk-based l
 NLP pipeline extracting sentiment and key themes from customer reviews into an interactive dashboard.
 
 `Python` `NLP` `Pandas` `Streamlit`
-**Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `89.74`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/customer-review-analytics-dashboard)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/)
@@ -113,7 +113,7 @@ NLP pipeline extracting sentiment and key themes from customer reviews into an i
 Classification model predicting diabetes risk from patient health metrics for early-detection use cases.
 
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `75.32`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/diabetes-prediction-system)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
