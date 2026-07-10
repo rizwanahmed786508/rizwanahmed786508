@@ -2,20 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29,302b63,24243e&height=220&section=header&text=RIZWAN%20AHMED&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Machine%20Learning%20Engineer%20•%20Software%20Engineer%20•%20AI%20Researcher&descAlignY=54&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Machine+Learning+Engineer;Data+Scientist;Software+Engineer;AI+%26+Computer+Vision+Enthusiast;NLP+%26+Research+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Machine+Learning+Engineer;Building+End-to-End+ML+Systems;Predictive+Analytics;Natural+Language+Processing;AI+Research+Enthusiast" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizwan%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanahmed78)
 [![GitHub](https://img.shields.io/badge/GitHub-rizwanahmed786508-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_REAL_EMAIL_HERE)
 <img src="https://komarev.com/ghpvc/?username=rizwanahmed786508&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 <div align="center">
 
-🎓 BS Software Engineering @ IBA Sukkur &nbsp;|&nbsp; 💼 Machine Learning Intern @ National Grid Company Pakistan Limited
-📊 5+ End-to-End Machine Learning Projects &nbsp;|&nbsp; 🚀 Streamlit • Scikit-Learn • NLP • Predictive Analytics
-🎯 Seeking ML Engineering & AI Research Opportunities
+🎓 BS Software Engineering | CGPA: 3.76 / 4.00
+💼 Machine Learning Intern @ National Grid Company Pakistan Limited
+📊 5+ End-to-End Machine Learning Projects
+🚀 Machine Learning • NLP • Predictive Analytics • Streamlit
+🌍 Open to AI Research & Machine Learning Opportunities
 
 </div>
 
@@ -25,7 +27,7 @@
 
 I'm **Rizwan Ahmed**, a Machine Learning Engineer in training — BS Software Engineering at **IBA Sukkur** (CGPA **3.76/4.00**) and currently a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**.
 
-I build **end-to-end ML systems**: data collection → cleaning → EDA → feature engineering → model development → evaluation → deployment → interactive dashboards. Not just notebooks — systems someone can actually use.
+I build **end-to-end ML systems**: data collection → cleaning → EDA → feature engineering → model development → evaluation → deployment → interactive dashboards. I focus on developing production-oriented Machine Learning solutions that are reliable, scalable, and applicable to real-world problems.
 
 My interests center on **Machine Learning, Deep Learning, NLP, Computer Vision, and MLOps**, with a growing focus on AI research. Long-term, I'm working toward becoming a full-time **Machine Learning Engineer** and pursuing a fully-funded **international Master's degree** in AI/ML.
 
@@ -73,9 +75,9 @@ Applying ML to real operational & predictive use cases
 Predicts employee satisfaction levels from workplace data to support HR decision-making.
 
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** HR employee survey data &nbsp;|&nbsp; **Best Accuracy:** _add score_
+**Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
 
 </td>
 <td width="50%">
@@ -84,9 +86,9 @@ Predicts employee satisfaction levels from workplace data to support HR decision
 Assesses creditworthiness from historical financial data to support risk-based lending decisions.
 
 `Python` `Scikit-Learn` `NumPy`
-**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Best Accuracy:** _add score_
+**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
 
 </td>
 </tr>
@@ -97,9 +99,10 @@ Assesses creditworthiness from historical financial data to support risk-based l
 NLP pipeline extracting sentiment and key themes from customer reviews into an interactive dashboard.
 
 `Python` `NLP` `Pandas` `Streamlit`
-**Dataset:** Customer review text data &nbsp;|&nbsp; **Best Accuracy:** _add score_
+**Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://ADD_STREAMLIT_LINK_HERE)
 
 </td>
 <td width="50%">
@@ -108,9 +111,9 @@ NLP pipeline extracting sentiment and key themes from customer reviews into an i
 Classification model predicting diabetes risk from patient health metrics for early-detection use cases.
 
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Best Accuracy:** _add score_
+**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
 
 </td>
 </tr>
@@ -122,7 +125,8 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 `HTML` `CSS` `JavaScript`
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=vercel&logoColor=white)](https://ADD_LIVE_LINK_HERE)
 
 </td>
 <td width="50%">
@@ -151,47 +155,31 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Data Analysis & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-**Web Development**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Machine Learning & Data Analysis**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Deployment**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools & Platforms**
+**Version Control & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+> 💡 This stack reflects technologies used in the projects above. Add back TensorFlow, PyTorch, OpenCV, SQL, or databases once you have a project that demonstrably uses them.
 
 ---
 
@@ -219,18 +207,16 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 </div>
 
-> 💡 The **contribution snake animation** needs a one-time GitHub Actions workflow in your profile repo (`rizwanahmed786508/rizwanahmed786508`) — ask and I'll generate it. Stats/streak/trophy widgets render automatically once this README lives there.
-
 ---
 
 ## 🏆 Achievements &nbsp;·&nbsp; 📜 Certifications
 
-- 🎓 Maintaining a **CGPA of 3.76 / 4.00** in BS Software Engineering at IBA Sukkur
-- 💼 Currently working as a **Machine Learning Intern** at National Grid Company Pakistan Limited (NGC)
-- 🛠️ Delivered **5+ end-to-end ML and software projects**, including predictive systems and NLP analytics
-- 🎖️ Certified in **Introduction to Data Science** (Cisco) and **Intermediate Machine Learning** (Kaggle)
-- 🌱 Actively building a **GitHub portfolio** aimed at research and industry opportunities
-- 📖 Pursuing long-term **research goals** in Explainable and Responsible AI
+- ✔ Machine Learning Intern @ National Grid Company Pakistan Limited
+- ✔ Built **5+ End-to-End Machine Learning Projects**
+- ✔ Deployed Machine Learning applications using **Streamlit**
+- ✔ CGPA **3.76 / 4.00** in BS Software Engineering at IBA Sukkur
+- ✔ **Introduction to Data Science** — Cisco
+- ✔ **Intermediate Machine Learning** — Kaggle
 
 ---
 
@@ -248,9 +234,9 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 ## 🎯 GitHub Contribution Goals
 
 - [ ] Contribute meaningfully to **open-source** ML/AI repositories
-- [ ] Publish **research-driven** machine learning projects
+- [ ] Publish **research-oriented Machine Learning articles**
 - [ ] Expand my portfolio with more **AI projects**
-- [ ] Start writing **technical blogs** on ML/AI concepts and projects
+- [ ] Pursue a fully-funded **international Master's degree** in AI/ML
 
 ---
 
@@ -260,8 +246,8 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanahmed78)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle-username)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rizwanahmedlund)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizwanmb310@gmail.com)
 
 </div>
 
@@ -271,7 +257,7 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 > *"The goal is to turn data into information, and information into insight."* — **Carly Fiorina**
 
-### 💬 Let's build intelligent systems that solve real-world problems using Artificial Intelligence.
+### 💬 Turning data into intelligent decisions through Machine Learning and Artificial Intelligence.
 
 Open to Machine Learning internships, research collaborations, and AI engineering opportunities worldwide.
 
