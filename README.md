@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29,302b63,24243e&height=240&section=header&text=RIZWAN%20AHMED&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Machine%20Learning%20Engineer%20•%20Software%20Engineer%20•%20AI%20Researcher&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29,302b63,24243e&height=220&section=header&text=RIZWAN%20AHMED&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Machine%20Learning%20Engineer%20•%20Software%20Engineer%20•%20AI%20Researcher&descAlignY=54&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Machine+Learning+Engineer;Data+Scientist;Software+Engineer;AI+%26+Computer+Vision+Enthusiast;NLP+%26+Research+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-
-<sub>🧠 Turning data into decisions — one model at a time</sub>
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Machine+Learning+Engineer;Data+Scientist;Software+Engineer;AI+%26+Computer+Vision+Enthusiast;NLP+%26+Research+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizwan%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanahmed78)
 [![GitHub](https://img.shields.io/badge/GitHub-rizwanahmed786508-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508)
@@ -15,17 +11,24 @@
 
 </div>
 
+<div align="center">
+
+🎓 BS Software Engineering @ IBA Sukkur &nbsp;|&nbsp; 💼 Machine Learning Intern @ National Grid Company Pakistan Limited
+📊 5+ End-to-End Machine Learning Projects &nbsp;|&nbsp; 🚀 Streamlit • Scikit-Learn • NLP • Predictive Analytics
+🎯 Seeking ML Engineering & AI Research Opportunities
+
+</div>
+
 ## 🧠 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
 
-I'm **Rizwan Ahmed**, a Software Engineering student at **IBA Sukkur** (CGPA: **3.76/4.00**) and a **Machine Learning Intern** at **National Grid Company Pakistan Limited (NGC)**.
+I'm **Rizwan Ahmed**, a Machine Learning Engineer in training — BS Software Engineering at **IBA Sukkur** (CGPA **3.76/4.00**) and currently a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**.
 
-I specialize in designing and developing **end-to-end Machine Learning solutions**, transforming real-world data into actionable insights through data preprocessing, exploratory data analysis, predictive modeling, and interactive web applications.
+I build **end-to-end ML systems**: data collection → cleaning → EDA → feature engineering → model development → evaluation → deployment → interactive dashboards. Not just notebooks — systems someone can actually use.
 
-My work spans **Predictive Analytics, Natural Language Processing (NLP), Healthcare AI, Financial Risk Analysis, and HR Analytics**, with a strong emphasis on building practical, deployment-ready ML systems rather than just research notebooks.
+My interests center on **Machine Learning, Deep Learning, NLP, Computer Vision, and MLOps**, with a growing focus on AI research. Long-term, I'm working toward becoming a full-time **Machine Learning Engineer** and pursuing a fully-funded **international Master's degree** in AI/ML.
 
-I am passionate about applying Artificial Intelligence to solve real-world problems and continuously expanding my expertise in **Machine Learning, MLOps, Deep Learning, and AI Research**. My long-term goal is to become a **Machine Learning Engineer** and pursue a **fully funded international Master's degree** in Artificial Intelligence or Machine Learning while contributing to impactful AI solutions on a global scale.
 <br clear="right"/>
 
 ---
@@ -56,7 +59,6 @@ Applying ML to real operational & predictive use cases
 **Research Interests:** `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `MLOps` `Explainable AI` `Predictive Analytics`
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -213,10 +215,11 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 </tr>
 </table>
 
-
+![Snake animation](https://raw.githubusercontent.com/rizwanahmed786508/rizwanahmed786508/output/github-contribution-grid-snake.svg)
 
 </div>
 
+> 💡 The **contribution snake animation** needs a one-time GitHub Actions workflow in your profile repo (`rizwanahmed786508/rizwanahmed786508`) — ask and I'll generate it. Stats/streak/trophy widgets render automatically once this README lives there.
 
 ---
 
@@ -257,9 +260,8 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanahmed78)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -269,15 +271,9 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 > *"The goal is to turn data into information, and information into insight."* — **Carly Fiorina**
 
-</div>
+### 💬 Let's build intelligent systems that solve real-world problems using Artificial Intelligence.
 
----
-
-<div align="center">
-
-### 💬 Let's build intelligent systems that solve real-world problems — together.
-
-⭐ Thanks for stopping by — explore my repositories or reach out using the links above.
+Open to Machine Learning internships, research collaborations, and AI engineering opportunities worldwide.
 
 **Made with ❤️ by Rizwan Ahmed**
 
