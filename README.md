@@ -89,6 +89,8 @@ Assesses creditworthiness from historical financial data to support risk-based l
 **Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/credit-scoring-system)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
+
 
 </td>
 </tr>
@@ -102,7 +104,7 @@ NLP pipeline extracting sentiment and key themes from customer reviews into an i
 **Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/customer-review-analytics-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/)
 
 </td>
 <td width="50%">
@@ -114,7 +116,7 @@ Classification model predicting diabetes risk from patient health metrics for ea
 **Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/diabetes-prediction-system)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
 </td>
 </tr>
 <tr>
@@ -126,7 +128,7 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 `HTML` `CSS` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=vercel&logoColor=white)](https://ADD_LIVE_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://ADD_LIVE_LINK_HERE)
 
 </td>
 <td width="50%">
