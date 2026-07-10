@@ -77,7 +77,7 @@ Predicts employee satisfaction levels from workplace data to support HR decision
 `Python` `Scikit-Learn` `Pandas`
 **Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/employee-job-satisfaction-prediction)
 
 </td>
 <td width="50%">
@@ -88,7 +88,7 @@ Assesses creditworthiness from historical financial data to support risk-based l
 `Python` `Scikit-Learn` `NumPy`
 **Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/credit-scoring-system)
 
 </td>
 </tr>
@@ -101,8 +101,8 @@ NLP pipeline extracting sentiment and key themes from customer reviews into an i
 `Python` `NLP` `Pandas` `Streamlit`
 **Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://ADD_STREAMLIT_LINK_HERE)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/customer-review-analytics-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/)
 
 </td>
 <td width="50%">
@@ -113,8 +113,8 @@ Classification model predicting diabetes risk from patient health metrics for ea
 `Python` `Scikit-Learn` `Pandas`
 **Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/REPO_NAME_HERE)
-
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/diabetes-prediction-system)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
 </td>
 </tr>
 <tr>
@@ -203,6 +203,7 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 </tr>
 </table>
 
+![Snake animation](https://raw.githubusercontent.com/rizwanahmed786508/rizwanahmed786508/output/github-contribution-grid-snake.svg)
 
 </div>
 
