@@ -12,11 +12,9 @@
 </div>
 
 <div align="center">
-Machine Learning Engineer
-Building End-to-End ML Systems
-Predictive Analytics
-Natural Language Processing
-AI Research Enthusiast
+🎓 BS Software Engineering | CGPA 3.76/4.00 • 💼 ML Intern @ National Grid Company Pakistan Limited • 📊 5+ End-to-End ML Projects
+
+🚀 Machine Learning • NLP • Predictive Analytics • Streamlit • 🌍 Open to AI Research & ML Opportunities
 
 </div>
 
