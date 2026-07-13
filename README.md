@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29,302b63,24243e&height=220&section=header&text=RIZWAN%20AHMED&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Machine%20Learning%20Engineer%20•%20Software%20Engineer%20•%20Data%20Scientist&descAlignY=54&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Machine+Learning+Engineer;Software+Engineer;Data+Scientist;Building+End-to-End+ML+Systems;Artificial+Intelligence+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Machine+Learning+Engineer;Building+End-to-End+ML+Systems;Predictive+Analytics;Natural+Language+Processing;AI+Research+Enthusiast" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizwan%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanahmed78)
 [![GitHub](https://img.shields.io/badge/GitHub-rizwanahmed786508-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508)
@@ -13,9 +13,11 @@
 
 <div align="center">
 
-**BS Software Engineering** (CGPA 3.76/4.00) &nbsp;·&nbsp; **Machine Learning Intern** @ National Grid Company Pakistan Limited
-Built **5+ end-to-end ML projects** across predictive analytics, NLP, and applied data science
-Open to **Machine Learning internships, research collaborations, and graduate opportunities**
+🎓 BS Software Engineering | CGPA 3.76/4.00
+💼 Machine Learning Intern @ National Grid Company Pakistan Limited
+📊 5+ End-to-End Machine Learning Projects
+🚀 Machine Learning • NLP • Predictive Analytics • Streamlit
+🌍 Open to AI Research & ML Opportunities
 
 </div>
 
@@ -25,9 +27,9 @@ Open to **Machine Learning internships, research collaborations, and graduate op
 
 I'm **Rizwan Ahmed**, a Software Engineering student at **IBA Sukkur** (CGPA **3.76/4.00**), currently working as a **Machine Learning Intern at National Grid Company Pakistan Limited (NGC)**.
 
-I work across the full ML lifecycle — data collection, cleaning, exploratory analysis, feature engineering, model development, evaluation, and deployment — with a focus on building solutions that are reliable and usable beyond a notebook, not just accurate on paper.
+I build **production-oriented ML systems** end-to-end — data collection, cleaning, exploratory analysis, feature engineering, model development, evaluation, and deployment. Each project in my portfolio ships as a working, deployed application rather than a static notebook.
 
-My core interests are **Machine Learning, Deep Learning, NLP, and MLOps**, and I'm building toward a career as a Machine Learning Engineer, alongside a longer-term interest in graduate research in AI.
+My core interests are **Machine Learning, Deep Learning, NLP, and MLOps**, and I'm working toward a career as a Machine Learning Engineer alongside a longer-term interest in graduate-level AI research.
 
 <br clear="right"/>
 
@@ -52,12 +54,13 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 **Machine Learning Intern** — National Grid Company Pakistan Limited (NGC)
 *July 2026 – Present*
 
-- Work with real operational datasets to build and evaluate predictive models
-- Perform data cleaning, exploratory analysis, and feature engineering as part of the modeling workflow
-- Build and iterate on Scikit-Learn-based models for classification and prediction tasks
-- Communicate findings and model performance to non-technical stakeholders
-- Document workflows and results to support reproducibility
+• Analyze operational datasets for predictive modeling
 
+• Develop Scikit-Learn models for real-world power sector use cases
+
+• Perform feature engineering and model evaluation
+
+• Present insights through technical reports and presentations
 ---
 
 ## 🚀 Featured Projects
@@ -69,11 +72,12 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 <td width="50%">
 
 ### 📊 Employee Job Satisfaction Prediction
-Predicts employee satisfaction from workplace survey data to support HR decision-making.
+**Problem:** HR teams lack an early signal for declining employee satisfaction.
+**Solution:** Scikit-Learn classification model trained on workplace survey data to flag at-risk satisfaction levels.
 
 `Classification` `EDA` `Predictive Analytics`
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `87.31`%
+**Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `87.31%`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/employee-job-satisfaction-prediction)
 
@@ -81,11 +85,12 @@ Predicts employee satisfaction from workplace survey data to support HR decision
 <td width="50%">
 
 ### 💳 Credit Scoring System
-Predicts creditworthiness from historical financial data to support risk-based lending decisions.
+**Problem:** Lenders need a fast, consistent way to assess borrower risk.
+**Solution:** Classification model trained on financial/credit history data, deployed as an interactive scoring app.
 
-`Classification` `Predictive Analytics`
+`Classification` `Predictive Analytics` `Deployment`
 `Python` `Scikit-Learn` `NumPy`
-**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `83.12`%
+**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `83.12%`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/credit-scoring-system)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
@@ -96,11 +101,12 @@ Predicts creditworthiness from historical financial data to support risk-based l
 <td width="50%">
 
 ### 🗣️ Customer Review Analytics Dashboard
-NLP pipeline extracting sentiment and key themes from customer reviews into an interactive dashboard.
+**Problem:** Manually reading customer reviews doesn't scale.
+**Solution:** NLP pipeline that extracts sentiment and key themes, surfaced through an interactive Streamlit dashboard.
 
 `NLP` `Dashboard` `Deployment`
 `Python` `Pandas` `Streamlit`
-**Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `88.93`%
+**Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `88.93%`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/customer-review-analytics-dashboard)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/)
@@ -109,22 +115,24 @@ NLP pipeline extracting sentiment and key themes from customer reviews into an i
 <td width="50%">
 
 ### 🩺 Diabetes Prediction System
-Classification model predicting diabetes risk from patient health metrics for early-detection use cases.
+**Problem:** Early risk detection can meaningfully change patient outcomes.
+**Solution:** Classification model on patient health metrics for early-detection screening, deployed as a live app.
 
-`Classification` `EDA`
+`Classification` `EDA` `Deployment`
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `75.95`%
+**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `75.95%`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/diabetes-prediction-system)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2">
 
 ### 🌐 MorpheLabs Landing Page
-Responsive landing page built to showcase brand identity with clean UI/UX principles.
+**Problem:** A brand needed a fast, modern web presence.
+**Solution:** Responsive landing page built with clean UI/UX principles, deployed on Vercel.
 
 `Frontend` `Deployment`
 `HTML` `CSS` `JavaScript`
@@ -133,20 +141,12 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://morphelabs-nextgen-landing-jiflot8u5.vercel.app/)
 
 </td>
-<td width="50%">
+</tr>
+</table>
 
-<div align="center">
-<br/>
-<i>More projects in progress —<br/>check my pinned repositories for the latest work.</i>
-<br/><br/>
 <a href="https://github.com/rizwanahmed786508?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -179,6 +179,7 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 **Deployment**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Version Control**
 
@@ -208,13 +209,9 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 <td colspan="2"><img width="100%" src="https://streak-stats.demolab.com?user=rizwanahmed786508&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></td>
 </tr>
 <tr>
-<td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanahmed786508&theme=tokyo-night&hide_border=true" /></td>
-</tr>
-<tr>
 <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=rizwanahmed786508&theme=discord&no-frame=true&row=1&column=7" /></td>
 </tr>
 </table>
-
 
 </div>
 
@@ -222,17 +219,12 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 ## 🏆 Achievements
 
-- 🎯 Machine Learning Intern @ National Grid Company Pakistan Limited
-- 🛠️ Built **5+ end-to-end Machine Learning projects**
-- 🚀 Deployed Machine Learning applications using **Streamlit**
-- 🎓 CGPA **3.76 / 4.00** in BS Software Engineering at IBA Sukkur
-
----
-
-## 📜 Certifications
-
+- 💼 **Machine Learning Intern** @ National Grid Company Pakistan Limited
+- 🛠️ Built **5+ end-to-end Machine Learning projects**, each taken from raw data to deployed application
+- 🚀 Deployed live ML applications on **Streamlit** and **Vercel**
 - 🎖️ **Introduction to Data Science** — Cisco
 - 🎖️ **Intermediate Machine Learning** — Kaggle
+- 🎓 CGPA **3.76 / 4.00** in BS Software Engineering at IBA Sukkur
 
 ---
 
@@ -240,18 +232,9 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 <div align="center">
 
-`Machine Learning` &nbsp; `Deep Learning` &nbsp; `Natural Language Processing` &nbsp; `MLOps` &nbsp; `AI Research`
+`Machine Learning Engineering` &nbsp; `AI Research` &nbsp; `Natural Language Processing` &nbsp; `Predictive Analytics` &nbsp; `Open Source Contributions`
 
 </div>
-
----
-
-## 🎯 Current Goals
-
-- [ ] Contribute to **open-source** ML/AI projects
-- [ ] Build **production-ready** Machine Learning applications
-- [ ] Publish **technical articles** on ML/AI concepts and projects
-- [ ] Prepare for **graduate research** in Machine Learning / AI
 
 ---
 
@@ -270,12 +253,15 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 
 <div align="center">
 
-### I build Machine Learning systems that turn data into reliable, real-world decisions.
-
+**I build Machine Learning systems that turn data into reliable, real-world decisions.**
 Open to Machine Learning internships, research collaborations, and engineering opportunities.
 
-**Made with ❤️ by Rizwan Ahmed**
+Always learning.
+Always building.
+Always improving.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29&height=90&section=footer" width="100%"/>
+© 2026 Rizwan Ahmed
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29&height=80&section=footer" width="100%"/>
 
 </div>
