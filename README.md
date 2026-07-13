@@ -73,7 +73,7 @@ Predicts employee satisfaction from workplace survey data to support HR decision
 
 `Classification` `EDA` `Predictive Analytics`
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `87.31`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/employee-job-satisfaction-prediction)
 
@@ -85,10 +85,10 @@ Predicts creditworthiness from historical financial data to support risk-based l
 
 `Classification` `Predictive Analytics`
 `Python` `Scikit-Learn` `NumPy`
-**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** Financial/credit history records &nbsp;|&nbsp; **Accuracy:** `83.12`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/credit-scoring-system)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
 
 </td>
 </tr>
@@ -100,10 +100,10 @@ NLP pipeline extracting sentiment and key themes from customer reviews into an i
 
 `NLP` `Dashboard` `Deployment`
 `Python` `Pandas` `Streamlit`
-**Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** Customer review text data &nbsp;|&nbsp; **Accuracy:** `88.93`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/customer-review-analytics-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/)
 
 </td>
 <td width="50%">
@@ -113,10 +113,10 @@ Classification model predicting diabetes risk from patient health metrics for ea
 
 `Classification` `EDA`
 `Python` `Scikit-Learn` `Pandas`
-**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `ADD_REAL_SCORE`%
+**Dataset:** Pima Indians Diabetes dataset &nbsp;|&nbsp; **Accuracy:** `75.95`%
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/diabetes-prediction-system)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=vercel&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://diabetes-prediction-system-zhnsdbyfenhgd5xgjq4ngt.streamlit.app/)
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 `HTML` `CSS` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/morphelabs-nextgen-landing)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ADD_LINK-00C853?style=flat-square&logo=vercel&logoColor=white)](https://morphelabs-nextgen-landing-jiflot8u5.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://morphelabs-nextgen-landing-jiflot8u5.vercel.app/)
 
 </td>
 <td width="50%">
@@ -215,7 +215,6 @@ Responsive landing page built to showcase brand identity with clean UI/UX princi
 </tr>
 </table>
 
-![Snake animation](https://raw.githubusercontent.com/rizwanahmed786508/rizwanahmed786508/output/github-contribution-grid-snake.svg)
 
 </div>
 
