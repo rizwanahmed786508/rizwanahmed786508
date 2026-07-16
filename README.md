@@ -128,7 +128,7 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
 ### 🧬 Medical Data Schema Mapper
 **Problem:** Healthcare datasets use inconsistent field names across systems, making integration slow and error-prone.
@@ -139,12 +139,10 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 **Techniques:** Cosine Similarity, Semantic Matching, Data Transformation
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/medical-data-schema-mapper)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://medical-data-schema-mapper-qvrijchzyeashj4xputo5j.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://your-app-url.streamlit.app/)
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="50%">
 
 ### 🌐 MorpheLabs Landing Page
 **Problem:** A brand needed a fast, modern web presence.
