@@ -130,6 +130,22 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 <tr>
 <td colspan="2">
 
+### 🧬 Medical Data Schema Mapper
+**Problem:** Healthcare datasets use inconsistent field names across systems, making integration slow and error-prone.
+**Solution:** AI-powered tool that semantically matches schema fields across datasets using sentence embeddings and fuzzy matching, deployed as an interactive Streamlit app.
+
+`NLP` `Semantic Matching` `Data Engineering` `Deployment`
+`Python` `Sentence Transformers` `RapidFuzz` `Streamlit`
+**Techniques:** Cosine Similarity, Semantic Matching, Data Transformation
+
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/medical-data-schema-mapper)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://medical-data-schema-mapper-qvrijchzyeashj4xputo5j.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ### 🌐 MorpheLabs Landing Page
 **Problem:** A brand needed a fast, modern web presence.
 **Solution:** Responsive landing page built with clean UI/UX principles, deployed on Vercel.
@@ -170,6 +186,7 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 **Natural Language Processing**
 
 ![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-6D28D9?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-Semantic%20Search-6D28D9?style=for-the-badge)
 
 **Data Analysis**
 
@@ -220,7 +237,7 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 ## 🏆 Achievements
 
 - 💼 **Machine Learning Intern** @ National Grid Company Pakistan Limited
-- 🛠️ Built **5+ end-to-end Machine Learning projects**, each taken from raw data to deployed application
+- 🛠️ Built **6+ end-to-end Machine Learning projects**, each taken from raw data to deployed application
 - 🚀 Deployed live ML applications on **Streamlit** and **Vercel**
 - 🎖️ **Introduction to Data Science** — Cisco
 - 🎖️ **Intermediate Machine Learning** — Kaggle
