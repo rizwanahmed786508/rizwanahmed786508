@@ -80,6 +80,7 @@ CGPA **3.76/4.00** &nbsp;|&nbsp; Expected Graduation **May 2027**
 **Dataset:** HR employee survey data &nbsp;|&nbsp; **Accuracy:** `87.31%`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-8B5CF6?style=flat-square&logo=github)](https://github.com/rizwanahmed786508/employee-job-satisfaction-prediction)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)]([![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=streamlit&logoColor=white)](https://customer-review-analytics-dashboard-mfyokfq8pa9498gcs3qbss.streamlit.app/))
 
 </td>
 <td width="50%">
